@@ -140,3 +140,7 @@ Thumbs.db
 *.tlog
 *.log
 *.obj
+*.opensdf
+
+
+
